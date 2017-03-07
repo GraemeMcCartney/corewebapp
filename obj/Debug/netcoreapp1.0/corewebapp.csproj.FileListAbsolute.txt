@@ -1,0 +1,8 @@
+C:\projects\corewebapp\bin\Debug\netcoreapp1.0\corewebapp.deps.json
+C:\projects\corewebapp\bin\Debug\netcoreapp1.0\corewebapp.runtimeconfig.json
+C:\projects\corewebapp\bin\Debug\netcoreapp1.0\corewebapp.runtimeconfig.dev.json
+C:\projects\corewebapp\bin\Debug\netcoreapp1.0\corewebapp.dll
+C:\projects\corewebapp\bin\Debug\netcoreapp1.0\corewebapp.pdb
+C:\projects\corewebapp\obj\Debug\netcoreapp1.0\corewebapp.AssemblyInfo.cs
+C:\projects\corewebapp\obj\Debug\netcoreapp1.0\corewebapp.dll
+C:\projects\corewebapp\obj\Debug\netcoreapp1.0\corewebapp.pdb
